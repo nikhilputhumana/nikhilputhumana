@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Puthumana</h1>
 <h3 align="center">An aspiring web developer from India</h3>
 
-- 🌱 I’m currently learning **Django and Solidity**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Web dev, Python, blah blah blah..**
 
